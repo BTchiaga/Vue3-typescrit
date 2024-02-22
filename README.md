@@ -1,20 +1,20 @@
-# Boilerplate Code for Typescript with Vue.js 3 Course
+# Boilerplate Code for Typescript with Vue.js 3 
 
 This is the boilerplate code for the TypeScript with Vue.js 3 Course.
 
 ## How to Install
 ```sh
-npx degit vueschool/ts-vue-boilerplate 
+
 ```
 ```sh
-npm install
-npm run dev
+yarn install
+yarn dev
 ```
 
 ### Compile and Hot-Reload for Development
 
 ```sh
-npm run dev
+yarn dev
 ```
 
 ### Type-Check, Compile and Minify for Production
